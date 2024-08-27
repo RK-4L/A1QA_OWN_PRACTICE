@@ -1,0 +1,9 @@
+# Visual Studio Code
+.vscode/
+
+# Librerias
+lib/
+
+# Extra
+src/App.java
+README.md
