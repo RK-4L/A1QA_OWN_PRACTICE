@@ -5,5 +5,11 @@
 lib/
 
 # Extra
-src/App.java
+src/driver/
+src/resources/
+src/main/java/unit_2_practice_task_27_08_24/App.java
+src/test/java/unit_2_practice_task_27_08_24/AppTest.java
+target/
+.editorconfig
+pom.xml
 README.md
